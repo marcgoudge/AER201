@@ -1,0 +1,1 @@
+	extern	InitLCD,WR_INS,WR_DATA,ClrLCD, Switch_Lines
